@@ -1,0 +1,4 @@
+// enum ServiceFailure{
+//   NetworkFailure,
+//   ParsingFailure,
+// }
